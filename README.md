@@ -1,2 +1,2 @@
 # Data Science Final
-## by: Christopher Yarbro and Lakeland Galinson (test)
+## by: Christopher Yarbro and Lakeland Galinson
